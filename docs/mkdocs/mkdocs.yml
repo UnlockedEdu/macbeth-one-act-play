@@ -22,6 +22,7 @@ markdown_extensions:
     - pymdownx.emoji
     - pymdownx.keys
     - pymdownx.smartsymbols
+    - pymdownx.tilde
     - pymdownx.magiclink:
         repo_url_shortener: True
         repo_url_shorthand: True
@@ -47,3 +48,4 @@ extra_css:
     - css/details.css
     - css/tasklist.css
     - css/custom_tasklist.css
+    - css/extra.css
