@@ -9,6 +9,7 @@ verify_ssl = true
 sphinx = "*"
 recommonmark = "*"
 sphinx-rtd-theme = "*"
+pyyaml = ">=4.2b1"
 mkdocs = "*"
 pymdown-extensions = "==5.0.0"
 mkdocs-material = "*"
