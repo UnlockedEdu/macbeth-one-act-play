@@ -119,7 +119,58 @@ _Enter Macbeth and Banquo_
 
 _The chorus and witches return to the upstage area and freeze into grotesque shapes._
 
-**Macbeth.**Stay you imperfect speakers, tell me more  
+**Macbeth.** Stay you imperfect speakers, tell me more  
 	<biggerindent> ... Speak, I charge you.</biggerindent>  
 **Banquo.** The earth has bubbles, as the water has,
 	<indent>And these are of them. Whither are they vanished?</indent>  
+**Macbeth.** Into the air, and what seemed corporal melted  
+**Banquo.** Were such things here as we do speak about?  
+    <indent>Or have we eaten on the insane root</indent>  
+    <indent>That takes the reason prisoner?</indent>  
+**Macbeth.** Your children shall be kings.  
+**Banquo.** <biggerindent> You shall be King. </biggerindent>  
+**Macbeth.** And Thane of Cawdor too. Went it not so?  
+**Banquo.** To the selfsame tune and words. Who's here?  
+
+_Enter Ross and another thane. [Thane was originally Angus]_  
+
+**Ross.** The king hath happily received, Macbeth,  
+    <indent>The news of thy success...</indent>  
+**Thane.** <biggerindent> We are sent</biggerindent>  
+    <indent>To give thee, from our royal master, thanks,</indent>  
+    <indent>Only to herald thee into his sight,</indent>  
+    <indent>Not pay thee.</indent>  
+**Ross.** And for an earnest of a greater honor,
+    <indent>He bade me, from him, call thee Thane of Cawdor.</indent>  
+    <indent>In which addition, hail, most worthy Thane!</indent>  
+    <indent>For it is thine.</indent>  
+**Banquo.**<indent>What, can the Devel speak true?</indent>  
+**Macbeth.** The Thane of Caword lives. Why do you dress me  
+    <indent> In borrowed robes?</indent>  
+**Thane.** <indent> Who was the Thane lives yet:</indent>  
+    <indent>But under heavy judgement bears that life</indent>  
+    <indent>Which he deserves to lose...</indent>  
+    <indent>Treasons capital, confessed and proved,</indent>  
+    <indent>Have overthrown him...</indent>  
+**Macbeth.** <indent>_Aside_ Glamis, and Thane of Cawdor.</indent>  
+    <indent>The greatest is behind. _To Ross and Thane_ Thanks for your pains</indent>  
+    <indent>_Aside to Banquo_ Do you not hope your children will be kings, </indent>
+    <indent>When those that gave the Thane of Cawdor to me</indent>  
+    <indent>Promised no less to them?</indent>  
+**Banquo.**<biggerindent>That trusted home,</biggerindent>  
+    <indent>Might yet enkindle you unto the crown,</indent>  
+    <indent>Besides the Thane of Cawdor. But 'tis strange</indent>  
+    <indent>And oftentimes, to win us to our harm,</indent>  
+    <indent>The instruments of darkness tell us truths,</indent>  
+    <indent>Win us with honest trifles, to betray's </indent>  
+    <indent>In deepest consequence.</indent>  
+**Macbeth.** ...Think upon what hat chanced, and at more time,  
+    <indent>The interim having weighed it, let us speak</indent>  
+    <indent>Our free hearts each to the other.</indent>  
+**Banquo.**<biggerindent> Very gladly, </biggerindent>  
+**Macbeth.** Till then, enough. Come friends.  
+
+_All freeze except Macbeth who turns to an offstage focus. The chorus forms
+the shapes of arches. Lady Macbeth emerges through the arches as a dark and
+evil cave, reading a letter. [Originally, the entire letter was read by
+Lady Macbeth]_
