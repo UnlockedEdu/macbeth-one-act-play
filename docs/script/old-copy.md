@@ -3,15 +3,15 @@ upstage area. Attached to one of the ladders is a large crude wooden shield
 that serves as a coat of arms._
 
 **First Witch.** When shall we three meet again?  
-	In thunder, lightning or in rain?  
+	<indent>In thunder, lightning or in rain?</indent>  
 **Second Witch.** When the hurly-burly's done,  
-	When the battle's lost and won.  
+	<indent>When the battle's lost and won.</indent>  
 **Third Witch.** That will be ere the set of sun.  
 **First Witch.** Where the place?  
-**Second Witch.** Upon the heath.  
+**Second Witch.** <bigindent>Upon the heath.</bigindent>  
 **Third Witch.** There to meet with Macbeth.  
 **All.** Fair is foul, and foul is fair.  
-	Hover through the fog and filthy air.
+	<indent>Hover through the fog and filthy air.</indent>
 
 _Music. Lights brighten. One of the witches rides upon the shoulders of a chorus
 member. All the witches wear long flowing capes that create a sense of flight.
@@ -27,147 +27,147 @@ this scene was originally Lennox] Sergeant and another warrior who aids [him/her
 are in the downstage area._
 
 **Duncan.** What bloody [man/one] is that?...  
-**Malcolm.** This is the sergeant  
-	Who ... fought   
-	'Gainst my captivity. Hail brave friend!      
-	Say to the King of the knowledge of the broil   
-	As thou didst leave it.  
-**Sergeant.**Doubtful it stood,  
-	As two spent swimmers that do cling together
-	And choke their art.  The merciless Macdonwald...  
-	From the western isles...is supplied...But all's too weak.  
-	For brave Macbeth...Disdaining fortune...carv'ed out his passage  
-	Till he unseamed him from the nave to the chaps, 
-	And fixed his head upon our battlements.  
+**Malcolm.** <bigindent>This is the sergeant</bigindent>  
+	<indent>Who ... fought </indent>  
+	<indent>'Gainst my captivity. Hail brave friend! </indent>     
+	<indent>Say to the King of the knowledge of the broil </indent>  
+	<indent>As thou didst leave it.</indent>  
+**Sergeant.**<bigindent>Doubtful it stood,</bigindent>  
+	<indent>As two spent swimmers that do cling together</indent>
+	<indent>And choke their art.  The merciless Macdonwald...</indent>  
+	<indent>From the western isles...is supplied...But all's too weak.</indent>  
+	<indent>For brave Macbeth...Disdaining fortune...carv'ed out his passage</indent>  
+	<indent>Till he unseamed him from the nave to the chaps,</indent> 
+	<indent>And fixed his head upon our battlements.</indent>  
 **Duncan.** Oh, valiant Cousin!...    
-**Sergeant.**...Mark, King of Scotland, mark.   
-	No sooner justice had...  
-	Compelled these skipping kerns to trust their heels,  
-	But the norweyan lord, surveying vantage,  
-	Began a fresh assault.  
-**Duncan.**Dismayed not this  
-	Our captains, Macbeth and Banquo?  
-**Sergeant.**Yes,  
-	As sparrows eagles, or the hare the lion...  
+**Sergeant.**<bigindent>...Mark, King of Scotland, mark.</bigindent>   
+	<indent>No sooner justice had...</indent>  
+	<indent>Compelled these skipping kerns to trust their heels,</indent>  
+	<indent>But the norweyan lord, surveying vantage,</indent>  
+	<indent>Began a fresh assault.</indent>  
+**Duncan.**<bigindent>Dismayed not this</bigindent>  
+	<indent>Our captains, Macbeth and Banquo?</indent>  
+**Sergeant.**<bigindent><indent><indent>Yes,</indent></indent></bigindent>  
+	<indent>As sparrows eagles, or the hare the lion...</indent>  
 **Duncan.** So well thy words become the as thy wounds.  
-	They smack of honor both. Go get [him/her] surgeons.  
-	Who comes here?   
+	<indent>They smack of honor both. Go get [him/her] surgeons.</indent>  
+	<indent>Who comes here?</indent>   
 
 _Enter Ross with guards and a bound Cawdor_
 
-**Malcolm.** The worthy thane of Ross.  
-**Ross.** God save the King!  
+**Malcolm.** <bigindent>The worthy thane of Ross.</bigindent>  
+**Ross.** <biggerindent>God save the King!</biggerindent>  
 **Duncan.** Whence camest though, worth Thane?  
-**Ross.** From Fife, great King, 
-	Where the Norweyan banners flout the sky  
-	And fan our people cold  
-	Norway himself, with terrible numbers,  
-	Assisted by that most disloyal traitor  
-	The thane of Cawdor, began a dismal conflict...  
-	And to conclude,  
-	The victory fell on us. 
-**Duncan.**Great Happiness!...  
-	No more that Thane of Cawdor shall deceive  
-	Our bosom interest. Go pronounce [his/her] present death,  
-	And with [his/her] former title greet Macbeth  
+**Ross.** <biggestindent>From Fife, great King,</biggestindent> 
+	<indent>Where the Norweyan banners flout the sky</indent>  
+	<indent>And fan our people cold</indent>  
+	<indent>Norway himself, with terrible numbers,</indent>  
+	<indent>Assisted by that most disloyal traitor</indent>  
+	<indent>The thane of Cawdor, began a dismal conflict...</indent>  
+	<bigindent>And to conclude,</bigindent>  
+	<indent>The victory fell on us.</indent> 
+**Duncan.**<bigindent>Great Happiness!...</bigindent>  
+	<indent>No more that Thane of Cawdor shall deceive</indent>  
+	<indent>Our bosom interest. Go pronounce [his/her] present death,</indent>  
+	<indent>And with [his/her] former title greet Macbeth</indent>  
 **Ross.** I'll see it done.  
 **Duncan.** What [he/she] hath lost, noble Macbeth has won...  
 
 _All exit except Duncain, Malcolm, and Donalbain. [This line came from a later
 scene which was cut]_
 
-**Duncan.**There's no art  
-	To find the mind's construction in the face.  
-	[He/She] was a [gentleman/valiant thane] on whom I build   
-	An absolute trust. 
+**Duncan.**<biggerindent>There's no art</biggerindent>  
+	<indent>To find the mind's construction in the face.</indent>  
+	<indent>[He/She] was a [gentleman/valiant thane] on whom I build</indent>   
+	<indent>An absolute trust.</indent> 
 
 _Duncan, Malcolm, and Donalbain exit into the chorus, which becomes evil spirits.
 The rest of the chorus lifts the witches above the "fog" to create a floating effect.
 When Macbeth and Banquo enter, this scene will employ an off stage focus._
 
 **All.** _Rapping_ The weird sisters, hand in hand,  
-	Posters of the sea and land,  
-	Thus do go about, about.  
-	Thrice to thine and thrice to mine,  
-	And thrice again, to make up nine.  
-	Peace! The charm's wound up. 
+	<indent>Posters of the sea and land,</indent>  
+	<indent>Thus do go about, about.</indent>  
+	<indent>Thrice to thine and thrice to mine,</indent>  
+	<indent>And thrice again, to make up nine.</indent>  
+	<indent>Peace! The charm's wound up.</indent> 
 
 _Enter Macbeth and Banquo_
 
 **Macbeth.** So foul and fair a day I have not seen.  
 **Banquo.** How far is 't called to Forres? What are these...  
-	That look not like inhabitants o' the earth  
-	And yet are on 't?  
-**Macbeth.** Speak if you can. What are you?  
+	<indent>That look not like inhabitants o' the earth</indent>  
+	<indent>And yet are on 't?</indent>  
+**Macbeth.**<bigindent>Speak if you can. What are you?</bigindent>  
 **First Witch.** All hail, Macbeth! Hail to thee, Thane of Glamis!  
 **Second Witch.** All hail, Macbeth! Hail to thee, Thane of Cawdor!  
 **Third Witch.** All hail, Macbeth, that shalt be King hereafter!  
 **Banquo.** Good sir, why do you start, and seem to fear  
-	Things that do sound fair?...  
-	If you can look into the seeds of time  
-	And say which grain will grow and which will not,  
-	Speak then to me, who neither beg nor fear  
-	Your favors nor your hate.  
+	<indent>Things that do sound fair?...</indent>  
+	<indent>If you can look into the seeds of time</indent>  
+	<indent>And say which grain will grow and which will not,</indent>  
+	<indent>Speak then to me, who neither beg nor fear</indent>  
+	<indent>Your favors nor your hate.</indent>  
 **First Witch.** Hail  
 **Second Witch.** Hail  
 **Third Witch.** Hail  
 **First Witch.** Lesser than Macbeth, and greater.  
 **Second Witch.** Not so happy, yet much happier.  
 **Third Witch.** Thou shalt get kings, though thou be none  
-	So all hail, Macbeth and Banquo!  
+	<indent>So all hail, Macbeth and Banquo!</indent>  
 **First Witch.** Banquo and Macbeth, all hail!  
 
 _The chorus and witches return to the upstage area and freeze into grotesque shapes._
 
 **Macbeth.** Stay you imperfect speakers, tell me more  
-	 ... Speak, I charge you.  
+	<biggerindent> ... Speak, I charge you.</biggerindent>  
 **Banquo.** The earth has bubbles, as the water has,
-	And these are of them. Whither are they vanished?  
+	<indent>And these are of them. Whither are they vanished?</indent>  
 **Macbeth.** Into the air, and what seemed corporal melted  
 **Banquo.** Were such things here as we do speak about?  
-    Or have we eaten on the insane root  
-    That takes the reason prisoner?  
+    <indent>Or have we eaten on the insane root</indent>  
+    <indent>That takes the reason prisoner?</indent>  
 **Macbeth.** Your children shall be kings.  
-**Banquo.**  You shall be King.   
+**Banquo.** <biggerindent> You shall be King. </biggerindent>  
 **Macbeth.** And Thane of Cawdor too. Went it not so?  
 **Banquo.** To the selfsame tune and words. Who's here?  
 
 _Enter Ross and another thane. [Thane was originally Angus]_  
 
 **Ross.** The king hath happily received, Macbeth,  
-    The news of thy success...  
-**Thane.**  We are sent  
-    To give thee, from our royal master, thanks,  
-    Only to herald thee into his sight,  
-    Not pay thee.  
+    <indent>The news of thy success...</indent>  
+**Thane.** <biggerindent> We are sent</biggerindent>  
+    <indent>To give thee, from our royal master, thanks,</indent>  
+    <indent>Only to herald thee into his sight,</indent>  
+    <indent>Not pay thee.</indent>  
 **Ross.** And for an earnest of a greater honor,
-    He bade me, from him, call thee Thane of Cawdor.  
-    In which addition, hail, most worthy Thane!  
-    For it is thine.  
-**Banquo.**What, can the Devel speak true?  
+    <indent>He bade me, from him, call thee Thane of Cawdor.</indent>  
+    <indent>In which addition, hail, most worthy Thane!</indent>  
+    <indent>For it is thine.</indent>  
+**Banquo.**<indent>What, can the Devel speak true?</indent>  
 **Macbeth.** The Thane of Caword lives. Why do you dress me  
-     In borrowed robes?  
-**Thane.**  Who was the Thane lives yet:  
-    But under heavy judgement bears that life  
-    Which he deserves to lose...  
-    Treasons capital, confessed and proved,  
-    Have overthrown him...  
-**Macbeth.** _Aside_ Glamis, and Thane of Cawdor.  
-    The greatest is behind. _To Ross and Thane_ Thanks for your pains  
-    _Aside to Banquo_ Do you not hope your children will be kings, 
-    When those that gave the Thane of Cawdor to me  
-    Promised no less to them?  
-**Banquo.**That trusted home,  
-    Might yet enkindle you unto the crown,  
-    Besides the Thane of Cawdor. But 'tis strange  
-    And oftentimes, to win us to our harm,  
-    The instruments of darkness tell us truths,  
-    Win us with honest trifles, to betray's   
-    In deepest consequence.  
+    <indent> In borrowed robes?</indent>  
+**Thane.** <indent> Who was the Thane lives yet:</indent>  
+    <indent>But under heavy judgement bears that life</indent>  
+    <indent>Which he deserves to lose...</indent>  
+    <indent>Treasons capital, confessed and proved,</indent>  
+    <indent>Have overthrown him...</indent>  
+**Macbeth.** <indent>_Aside_ Glamis, and Thane of Cawdor.</indent>  
+    <indent>The greatest is behind. _To Ross and Thane_ Thanks for your pains</indent>  
+    <indent>_Aside to Banquo_ Do you not hope your children will be kings, </indent>
+    <indent>When those that gave the Thane of Cawdor to me</indent>  
+    <indent>Promised no less to them?</indent>  
+**Banquo.**<biggerindent>That trusted home,</biggerindent>  
+    <indent>Might yet enkindle you unto the crown,</indent>  
+    <indent>Besides the Thane of Cawdor. But 'tis strange</indent>  
+    <indent>And oftentimes, to win us to our harm,</indent>  
+    <indent>The instruments of darkness tell us truths,</indent>  
+    <indent>Win us with honest trifles, to betray's </indent>  
+    <indent>In deepest consequence.</indent>  
 **Macbeth.** ...Think upon what hat chanced, and at more time,  
-    The interim having weighed it, let us speak  
-    Our free hearts each to the other.  
-**Banquo.** Very gladly,   
+    <indent>The interim having weighed it, let us speak</indent>  
+    <indent>Our free hearts each to the other.</indent>  
+**Banquo.**<biggerindent> Very gladly, </biggerindent>  
 **Macbeth.** Till then, enough. Come friends.  
 
 _All freeze except Macbeth who turns to an offstage focus. The chorus forms
@@ -176,46 +176,41 @@ evil cave, reading a letter. [Originally, the entire letter was read by
 Lady Macbeth]_
 
 **Macbeth.** "...Whiles I stood rapt in the wonder of it, came missives from the King,
-	who all-hailed me 'Thane of Cawdor,' by which title, before these weird sisters
-	saluted me, and with 'Hail, King that shalt be!' This have I thought good to
-	deliver thee, my dearest partner of greatness, that thou  mightest not lose the dues
-	of rejoicing, by being ignorant of...  
+	<indent>who all-hailed me 'Thane of Cawdor,' by which title, before these weird sisters</indent>
+	<indent>saluted me, and with 'Hail, King that shalt be!' This have I thought good to</indent>
+	<indent>deliver thee, my dearest partner of greatness, that thou  mightest not lose the dues</indent>
+	<indent>of rejoicing, by being ignorant of...</indent>  
 **Lady Macbeth.** ...that though mightest not lose the dues of rejoicing, by being ignorant of
-	what greatness is promised thee."  
-	Glamis thou art, and Cawdor, and shalt be
-	What thou art promised. Yet do I fear thy nature.
-	It is too full o' the milk of human kindness  
-	To catch the nearest way...
-
-_Enter a Messenger._
-
-
-	What is your tidings?  
+	<indent>what greatness is promised thee."</indent>  
+	<indent>Glamis thou art, and Cawdor, and shalt be</indent>
+	<indent>What thou art promised. Yet do I fear thy nature.</indent>
+	<indent>It is too full o' the milk of human kindness</indent>  
+	<indent>To catch the nearest way...</indent>
+<br><br>_Enter a Messenger._<br><br>
+	<biggestindent>What is your tidings?</biggestindent>  
 **Messenger.** The King comes here tonight.  
-**Lady Macbeth.**Thou'rt mad to say it
-	Is not thy master with him? Who, were 't so,
-	Would have informed for preparation.  
+**Lady Macbeth.**<biggestindent>Thou'rt mad to say it</biggestindent>
+	<indent>Is not thy master with him? Who, were 't so,</indent>
+	<indent>Would have informed for preparation.</indent>  
 **Messenger.** So please you, it is true; our Thane is coming.
-	One of my fellows had the speed of him...  
+	<indent>One of my fellows had the speed of him...</indent>  
 **Lady Macbeth.** He brings great news
-
-_Exit Messenger_
-
-	The raven himself is hoarse  
-	That croaks the fatal entrance of Duncan  
-	Under my battlements.
-_During the remainder of this speech the Chorus becomes Evil Spirits who
- close in and surround Lady Macbeth, eventually levitating her, creating the ecstatic feeling of body
-surfing._
-	Come, you sprits
-	That tend on mortal thoughs, Unsex me here,
-	And fill me, from the crown to the toe, topfull
-	Of direst cruelty! Make thick my blood,
-	Stop up the access and passage to remorse...
-	Come to my woman's breasts,
-	And take my milk for gall... Come, thick night,
-	And pall thee in the dunnest smoke of Hell,
-	That my keen knife see not the wound it makes,
+<br><br>_Exit Messenger_<br><br>
+	<biggerindent>The raven himself is hoarse</biggerindent>  
+	<indent>That croaks the fatal entrance of Duncan</indent>  
+	<indent>Under my battlements.</indent>
+<br><br>_During the remainder of this speech the Chorus becomes Evil Spirits who close in and
+surround Lady Macbeth, eventually levitating her, creating the ecstatic feeling of body
+surfing._<br><br>
+	<biggestindent>Come, you sprits</biggestindent>
+	<indent>That tend on mortal thoughs, Unsex me here,</indent>
+	<indent>And fill me, from the crown to the toe, topfull</indent>
+	<indent>Of direst cruelty! Make thick my blood,</indent>
+	<indent>Stop up the access and passage to remorse...</indent>
+	<biggerindent>Come to my woman's breasts,</biggerindent>
+	<indent>And take my milk for gall... Come, thick night,</indent>
+	<indent>And pall thee in the dunnest smoke of Hell,</indent>
+	<indent>That my keen knife see not the wound it makes,</indent>
 	Nor heaven peep through the blanket of the dark
 	To cry "Hold, hold!"
 _Enter Macbeth. The Chorus returns to being arches, guards etc._
@@ -388,98 +383,5 @@ _Looking on his hands._
 _Lady Macbeth exists into the Chorus. The sound of Knocking._
 
 **Macbeth.** Whence is that knocking?
-	How is 't with me when every noise appalls me?
-	What hands are here? Ha! They pluck out mine eyes!
-	Will all great Neptune's ocean wash this blood
-	Clean from my hand? No, this my hand will rather
-	The multitudinous seas incarnadine,
-	Making the green one red.
-
-_Reenter Lady Macbeth_
-
-**Lady Macbeth.** My hands are of your color, but I shame
-	To wear a heart so white. _Knocking._ I hear a knocking
-	At the south entry. Retire we to our chamber.
-	A little water clears us of this deed...
-**Macbeth.** To know my deed, 'twere best not know myself. _Knocking._
-	Wake Duncan with thy knocking! I would thou couldst!
-
-_Macbeth and Lady Macbeth exit into the Chorus. Music. The witches come to
-downstage area and dance. The effect of the scene going on behind them should be
-one of mass confusion. The lines of the Voices should be divided among the Chorus.
-[The lines of the voices were originally Lennox and Macbeth. Some of the lines have
-been rearranged. In performance, the scene behind the witches will probably occur
-simultaneously with the Malcom and Banquo dialogue.]_
-
-**Macduff.** O horror, horror, horror! Tongue nor heart
-	Cannot conceive nor name thee!
-**Voices.** What's the matter.
-**Macduff.** Confusion now hath made his masterpiece.
-	Most sacrilegious murder hath broke ope
-	The Lord's anointed t emple, and stole thence
-	The life o' the building!
-**Voices.** What is 't you say? The life?
-	Mean you His Majesty?
-**Macduff.** ...Awake, awake!
-	Ring the alarum bell. Murder and treason!
-	Banquo and Donalbain! Malcolm! Awake!
-
-_Malcolm and Donalbain emerge downstage._
-
-**Malcolm.** ...Why do we hold our tongues.
-	That most may claim this argument for ours?
-**Donalbain.** What should be spoken here, where our fate
-	...may rush and seize us?
-	Let's away,
-	Our tears are not yet brewed.
-**Malcolm.** Nor our strong sorrow
-	Upon the foot of motion.
-
-**Voices.** Those of his chamber, as it seemed, had done 't.
-	Their hands and faces were all badged with blood,
-	So were their daggers...no man's life
-	Was to be trusted with them.
-**Macbeth.** Oh, I do repent me of my fury,
-	That I did kill them.
-**Macduff.** Wherefore did you so?
-**Lady Macbeth.** ...Help me hence, ho!
-**Macduff.** Look to the lady.
-**Malcolm.** What will you do? ...I'll to England.
-**Donalbain.** To Ireland, I. Our separated fortune
-	Shall keep us both the safer...
-**Malcolm.** ...Therefore, to horse,
-	And let us not be dainty of leave-taking,
-	But shift away...
-
-_The witches "fly" back to the ladders. In the upstage area we see Macbeth's
-coronation. Macduff and Couse come downstage. [Cousin was originally Ross]
-
-**Cousin.** How goes the world, sir, now?
-**Macduff.** Why, see you not?
-**Cousin.** Is 't known who did this more than bloody deed?
-**Macduff.** Those that Macbeth hath slain.
-**Cousin.** Alas the day!
-	What good could they pretend?
-**Macduff.** They were suborned.
-	Malcolm and Donalbain...
-	Are stol'n away and fled, which puts on them
-	Suspicion of the deed.
-**Cousin.** ...Then 'tis most like
-	The sovereignty will fall upon Macbeth.
-**Macduff.** He is already named, and gone to Scone
-	To be invested.
-**Cousin.** ...Will you to Scone?
-**Macduff.** No, Cousin, I'll to Fife.
-**Cousin.** Well, I will thither.
-**Macduff.** Well, may you see things well done there. Adieu!
-
-_Music. The newly crowned Macbeth rides standing on his shield, carried by 
-soldiers. Music swells. The soldiers raise the shield to their shoulders. Soldiers
-run out from either side of the stage carrying banners, cross upstage and come
-to either side of Macbeth riding his shield. Music stops. Banquo in downstage area.
-During Banquo's and Macbeth's soliloquies, the chorus returns to being guards,
-people of the court, etc._
-
-
-
+	
 

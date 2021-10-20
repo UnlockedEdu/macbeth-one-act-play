@@ -3,7 +3,7 @@
 This is a One-Act play adaptation of William Shakespeare's Macbeth by
 Jim Devenport. To my knowledge this play has been performed twice (used in two
 One-Act seasons. The amount of times it was performed during those seasons is
-unkown) at Needville High School while Jim was teaching there, the most recent
+unknown) at Needville High School while Jim was teaching there, the most recent
 time being in the spring of 2010. I had the pleasure of being in the cast in 
 2010.
 
@@ -30,5 +30,6 @@ With the restrictions that
 * You may not use the material for commercial purposes
 * Distrubute your contributions, remixes, changes, adapatations, etc. under the same license as the original. You may not impose any further restrictions on these as well.
 
-I hope you enjoy this adaptation. If you perform it, _please_ let me know. If
-I am in the area I may even come see a performance!
+I hope you enjoy this adaptation. If you perform it, _please_ let me know 
+(email mason(AT)masonegger.com). IfI am in the area I may even come see a 
+performance!
